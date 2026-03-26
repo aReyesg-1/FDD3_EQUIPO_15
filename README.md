@@ -12,11 +12,11 @@ con impacto social, tecnológico y ambiental.
 Nos interesa trabajar en el siguiente Objetivo de Desarrollo Sostenible (ODS):
  
 
-**1. Introducción**  
+## 1. Introducción  
 En la actualidad, el crecimiento poblacional y urbano ha incrementado significativamente la generación de residuos sólidos, especialmente de tipo orgánico, provenientes de hogares, mercados y supermercados. En muchas comunidades, estos desechos no son gestionados adecuadamente, lo que genera impactos negativos en el ambiente.
 En este contexto, surge la necesidad de implementar estrategias sostenibles que permitan articular la disponibilidad de residuos orgánicos generados por la población con la producción de abono natural, promoviendo así un uso eficiente de los recursos y fortaleciendo el desarrollo ambiental y productivo de la comunidad.
 
-**2. Problemática**  
+## 2. Problemática  
 En la comunidad, una gran cantidad de residuos orgánicos generados diariamente por los hogares y supermercados es eliminada junto con otros desechos, sin recibir un tratamiento adecuado. Esta situación ocasiona diversos problemas, tales como:
 •	Acumulación de residuos en botaderos 
 •	Generación de malos olores 
@@ -25,7 +25,8 @@ En la comunidad, una gran cantidad de residuos orgánicos generados diariamente 
 De esta manera, se evidencia una contradicción:
 mientras existe una alta disponibilidad de residuos orgánicos aprovechables, también hay una demanda insatisfecha de abono natural, lo que refleja la ausencia de un sistema eficiente que permita integrar ambos recursos.
 
-**3. Solución propuesta**  
+## 3. Solución propuesta 
+
 Frente a esta problemática, se propone la implementación de un sistema comunitario de aprovechamiento de residuos orgánicos mediante compostaje controlado, orientado a la producción de abono natural.
 El sistema contempla:
 •	La recolección organizada de residuos orgánicos provenientes de hogares y supermercados 
@@ -35,7 +36,8 @@ El sistema contempla:
 El abono obtenido será utilizado para:
 Mantenimiento y ampliación de áreas verdes urbanasEl presente proyecto se alinea con el Objetivos de Desarrollo Sostenible, específicamente con el ODS 12: Producción y Consumo Responsables, el cual promueve el uso eficiente de los recursos y la reducción de desechos.
 
-**🌱ODS 12 (Producción y Consumo Responsables)** 
+## 🌱ODS 12 (Producción y Consumo Responsables)
+
 El proyecto se encuentra directamente alineado con el Objetivo de Desarrollo Sostenible 12, el cual promueve la gestión eficiente de los recursos naturales y la reducción de desechos mediante prácticas sostenibles.
 La propuesta contribuye a este objetivo mediante:
 •	 La reducción de residuos orgánicos, evitando su disposición inadecuada 
@@ -45,7 +47,7 @@ La propuesta contribuye a este objetivo mediante:
 •	La concientización de la comunidad, fomentando prácticas responsables de consumo y reciclaje
 •	Actividades agrícolas locales, mejorando la fertilidad del suelo y la productividad 
 De esta manera, se establece un sistema sostenible y circular, donde los residuos generados por la comunidad se convierten en un recurso útil para su propio desarrollo.
----
+
 
 ## 📸 Fotografía del Equipo  
 <p align="center">

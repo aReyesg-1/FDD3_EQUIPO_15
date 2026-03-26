@@ -48,6 +48,15 @@ La propuesta contribuye a este objetivo mediante:
 •	Actividades agrícolas locales, mejorando la fertilidad del suelo y la productividad 
 De esta manera, se establece un sistema sostenible y circular, donde los residuos generados por la comunidad se convierten en un recurso útil para su propio desarrollo.
 
+## Referencia Bibliografica
+
+• Ayala Cadena, O. (2014). Prototipo de un compostador de uso doméstico automatizado con Arduino [Tesis de licenciatura, Universidad Autónoma del Estado de México]. Repositorio Institucional UAEM.
+
+• Cristancho Ariza KFM, Guerra Lu JK. Gestión y manejo de los residuos sólidos orgánicos domiciliarios en el distrito de Rupa, Leoncio Prado, Huánuco – Perú 2023. ALFA Rev Investig Cienc Agron Vet. 2025;9(25):120-133. doi:10.33996/revistaalfa.v9i25.336
+
+• BBVA. ¿Qué son los residuos orgánicos y cómo gestionarlos? [Internet]. 2024 [citado 2026 Mar 25]. Disponible en: https://www.bbva.com/es/sostenibilidad/que-son-los-residuos-organicos-y-como-gestionarlos/
+
+
 
 ## 📸 Fotografía del Equipo  
 <p align="center">

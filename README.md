@@ -17,24 +17,23 @@ En la actualidad, el crecimiento poblacional y urbano ha incrementado significat
 En este contexto, surge la necesidad de implementar estrategias sostenibles que permitan articular la disponibilidad de residuos orgánicos generados por la población con la producción de abono natural, promoviendo así un uso eficiente de los recursos y fortaleciendo el desarrollo ambiental y productivo de la comunidad.
 
 ## 2. Problemática  
-En la comunidad, una gran cantidad de residuos orgánicos generados diariamente por los hogares y supermercados es eliminada junto con otros desechos, sin recibir un tratamiento adecuado. Esta situación ocasiona diversos problemas, tales como:
-•	Acumulación de residuos en botaderos 
-•	Generación de malos olores 
-•	Emisión de gases contaminantes producto de la descomposición no controlada 
-•	Contaminación del suelo y del entorno 
-De esta manera, se evidencia una contradicción:
-mientras existe una alta disponibilidad de residuos orgánicos aprovechables, también hay una demanda insatisfecha de abono natural, lo que refleja la ausencia de un sistema eficiente que permita integrar ambos recursos.
+Los residuos sólidos domiciliarios (RSD) son una mezcla compleja de materiales que se modifican de acuerdo a la región y el estilo de vida de los habitantes. Los restos de comida representan aproximadamente el 46% del total, seguidos por papel y cartón (12%), plásticos (11%) y restos de jardín (17%). Estos porcentajes reflejan los hábitos de consumo y la generación de desechos en los hogares. Por ello es necesario la gestión adecuada de estos residuos  para reducir su impacto ambiental y promover la sostenibilidad (1).  En los hogares, los residuos orgánicos como cáscaras de frutas, verduras y restos de comida son desechados en la basura común, lo que genera malos olores, contaminación y aumento de residuos sólidos. Además, estos residuos podrían ser aprovechados para producir abono orgánico, pero la mayoría de hogares no cuenta con sistemas para hacerlo.
+<img src="/Recursos/imagenes/rrrr.png" width="90"/>
+
 
 ## 3. Solución propuesta 
 
-Frente a esta problemática, se propone la implementación de un sistema comunitario de aprovechamiento de residuos orgánicos mediante compostaje controlado, orientado a la producción de abono natural.
-El sistema contempla:
-•	La recolección organizada de residuos orgánicos provenientes de hogares y supermercados 
-•	La clasificación de los desechos para asegurar su correcto tratamiento 
-•	La implementación de una compostera comunitaria, donde los residuos serán transformados en abono a través de un proceso biológico controlado 
-•	El monitoreo de variables clave como temperatura, humedad y aireación, con la posibilidad de incorporar tecnología (sensores y microcontroladores) para optimizar el proceso 
-El abono obtenido será utilizado para:
-Mantenimiento y ampliación de áreas verdes urbanasEl presente proyecto se alinea con el Objetivos de Desarrollo Sostenible, específicamente con el ODS 12: Producción y Consumo Responsables, el cual promueve el uso eficiente de los recursos y la reducción de desechos.
+Un prototipo adaptable a viviendas urbanas que facilita a las familias el aprovechamiento de sus residuos orgánicos mediante un proceso de descomposición acelerada. Gracias a un sistema de monitoreo inteligente, el dispositivo mantiene condiciones óptimas de temperatura, humedad y aireación de forma constante.
+Además, el prototipo orienta proactivamente al usuario a través de alertas personalizadas; por ejemplo, si detecta un desequilibrio, solicitará añadir materiales específicos, como restos verdes para aportar nitrógeno o cartón seco para el carbono.  De esta forma, se garantiza un compostaje eficiente, higiénico y sin olores en el hogar.
+
+## Ejemplos del proyectos :
+ -Sistema automático de control ambiental dentro del compostador. Este prototipo se enfoca en mantener las condiciones adecuadas para que los microorganismos puedan descomponer los residuos de manera eficiente. Para ello, se emplean sensores que detectan cambios en la temperatura y la humedad, activando automáticamente mecanismos como el riego o la ventilación cuando es necesario. Esto evita problemas como la muerte de microorganismos o la descomposición inadecuada de los residuos, mejorando así la calidad del compost producido.
+
+-Compostador compacto para espacios pequeños, el cual surge como respuesta a la limitación de espacio en muchos hogares. A diferencia de los compostadores tradicionales que requieren áreas amplias, este prototipo está diseñado para ser más pequeño, portátil y adaptable a viviendas urbanas. Su objetivo es facilitar que más familias puedan aprovechar sus residuos orgánicos sin necesidad de contar con un jardín grande. Este tipo de solución fomenta prácticas sostenibles en contextos urbanos y promueve un consumo responsable al hacer más accesible el reciclaje orgánico.(3)
+
+-Sistema IoT para medición de residuos orgánicos. Este consiste en un prototipo que permite medir la masa de residuos orgánicos en el hogar mediante una celda de carga conectada a una tarjeta Arduino y un módulo WiFi. Los datos recolectados se envían a una plataforma en la nube para su monitoreo en tiempo real, reduciendo el error humano y mejorando la precisión de las mediciones (con un error menor al 1.4 %). De esta manera, el sistema facilita el control y aprovechamiento de los residuos, contribuyendo a prácticas sostenibles como el compostaje.(4)
+
+
 
 ## 🌱ODS 12 (Producción y Consumo Responsables)
 

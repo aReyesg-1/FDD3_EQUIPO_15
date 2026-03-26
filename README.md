@@ -45,8 +45,6 @@ La propuesta contribuye a este objetivo mediante:
 •	La concientización de la comunidad, fomentando prácticas responsables de consumo y reciclaje
 •	Actividades agrícolas locales, mejorando la fertilidad del suelo y la productividad 
 De esta manera, se establece un sistema sostenible y circular, donde los residuos generados por la comunidad se convierten en un recurso útil para su propio desarrollo.
-
-
 ---
 
 ## 📸 Fotografía del Equipo  

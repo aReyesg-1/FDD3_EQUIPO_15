@@ -1,5 +1,5 @@
-.
-PATENTE 1:
+
+PATENTE 1: BUSQUEDA EN ESPACENET: https://worldwide.espacenet.com/patent/
 
 N° Título : 2873
 
@@ -11,9 +11,9 @@ La presente invención se refiere a una máquina de obtención de compost granul
 
 SOLICITANTE : UNIVERSIDAD NACIONAL DE UCAYALI (Perú)
 
-LINK: https://servicio.indecopi.gob.pe/portalSAE/Expedientes/consultaOIN.jsp
+LINK: https://worldwide.espacenet.com/patent/search?q=pn%3DPE20241012Z
 
-PATENTE 2:
+PATENTE 2: BUSQUEDA EN ESPACENET: https://worldwide.espacenet.com/patent/
 
 Título : MÉTODO DE COMPOSTAJE ADAPTADO A CLIMAS FRÍOS CON OPTIMIZACIÓN TÉRMICA PARA CULTIVOS EN ZONAS ANDINAS
 
@@ -25,11 +25,13 @@ La presente invención describe un método innovador para la producción de comp
 
 SOLICITANTE : UNIVERSIDAD CONTINENTAL S.A.C. (Perú)
 
-LINK: https://servicio.indecopi.gob.pe/portalSAE/Expedientes/consultaOIN.jsp
+LINK: https://worldwide.espacenet.com/patent/search/family/099059187/publication/PE20260384A1?q=pn%3DPE20260384A1
 
-PATENTE 3:
+PATENTE 3: BUSQUEDA EN ESPACENET: https://worldwide.espacenet.com/patent/
 
-Título : PROCESO DE RÁPIDA PRODUCCIÓN DE COCOMPOSTAJE EN SISTEMA ADIABÁTICO PARA AGRICULTURA SOSTENIBLE LIBRE DE PATÓGENOS Fecha Publicación : 2025-04-07
+Título : PROCESO DE RÁPIDA PRODUCCIÓN DE COCOMPOSTAJE EN SISTEMA ADIABÁTICO PARA AGRICULTURA SOSTENIBLE LIBRE DE PATÓGENOS
+
+Fecha Publicación : 2025-04-07
 
 RESUMEN:
 
@@ -37,4 +39,4 @@ Este proceso de compostaje adiabático transforma rápidamente residuos agrícol
 
 SOLICITANTE : UNIVERSIDAD CONTINENTAL S.A.C. (Perú)
 
-LINK: https://servicio.indecopi.gob.pe/portalSAE/Expedientes/consultaOIN.jsp
+LINK: https://worldwide.espacenet.com/patent/search/family/096020163/publication/PE20250951A1?q=pn%3DPE20250951A1

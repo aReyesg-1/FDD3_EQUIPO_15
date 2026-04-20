@@ -40,3 +40,27 @@ Este proceso de compostaje adiabático transforma rápidamente residuos agrícol
 SOLICITANTE : UNIVERSIDAD CONTINENTAL S.A.C. (Perú)
 
 LINK: https://worldwide.espacenet.com/patent/search/family/096020163/publication/PE20250951A1?q=pn%3DPE20250951A1
+
+PATENTE 4: BUSQUEDA EN ESPACENET: https://worldwide.espacenet.com/patent/
+
+Titulo: MÉTODO PARA LA PRODUCCIÓN DE FERTILIZANTES ORGÁNICOS Y MATERIAL RESULTANTE
+
+Fechas de publicacón: 2005
+
+Resumen:Este proceso consiste en la producción de fertilizantes orgánicos y mejoradores de suelo mediante el compostaje acelerado de biorresiduos provenientes de diversas industrias (alimentaria, azucarera, papelera, entre otras). La mezcla utiliza materiales como espuma de caña de azúcar, bagazo, lodos de destilería y residuos de celulosa para enriquecer el perfil nutricional. El producto final, que incluye microorganismos activadores, fosfato de amonio y oligoelementos, se somete a un secado controlado y se presenta en dos formatos: granulado (con una humedad del 18-22%) o triturado (con una humedad del 20-37%), garantizando así una fuente eficiente de nutrientes y vida biológica para el suelo.
+
+Solicitantes SILVA ARIAS, SAMUEL, GERARDO; ARBELÁEZ CARRERO, FRANCISCO, JAVIER 
+
+Link: https://worldwide.espacenet.com/patent/search/family/034942810/publication/ES2334147T3?q=COMPOSTAJE&queryLang=en%3Ade%3Afr
+
+PATENTE 5: BUSQUEDA EN ESPACENET: https://worldwide.espacenet.com/patent/
+
+Titulo: PROCESO PARA LA UTILIZACIÓN DE SUBPRODUCTOS DE LA INDUSTRIA AGROALIMENTARIA PARA LA OBTENCIÓN DE PRECURSORES DE BIOCOMBUSTIBLES, ALIMENTOS FUNCIONALES Y COSMÉTICOS
+
+Fecha de publicación:2013 
+
+Resumen: Proceso para la utilización de subproductos de la industria agroalimentaria para la obtención de precursores de biocombustibles y alimentos .Se refiere a la producción de productos de alto valor añadido a partir de subproductos de la industria agroalimentaria.
+
+Solicitantes UNIV. CÁDIZ [ES] UNIVERSIDAD DE CÁDIZ
+
+link: https://worldwide.espacenet.com/patent/search/family/047566164/publication/ES2395162A1?q=COMPOSTAJE&queryLang=en%3Ade%3Afr

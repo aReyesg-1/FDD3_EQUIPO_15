@@ -23,6 +23,7 @@ En el sector agrícola y comercial del Perú, la gestión ineficiente de residuo
 Esta problemática se agrava por la dependencia de fertilizantes químicos, utilizados por el 46,7% de pequeños y medianos productores (1.047.186 agricultores), con mayor presencia en regiones como Cajamarca (15%), Áncash (11%), Piura (8,5%), Junín (7,9%) y La Libertad (7,6%) (2). Entre los más usados se encuentran el fosfato diamónico (72,5%), cloruro de potasio (57,5%) y nitrato de amonio (37,5%), con limitaciones de acceso en zonas como el Valle del Cunas (3).
 
 El uso intensivo de estos insumos contribuye a la acidificación del suelo, alteraciones microbianas y contaminación de fuentes de agua, mientras que la inadecuada disposición de residuos (quema o vertederos) incrementa emisiones de metano, responsable de cerca del 30% del calentamiento global (4)(5). Además, los altos costos de estos fertilizantes —que representan el 29,9% de los consumos intermedios y son en un 89,5% importados— afectan la rentabilidad del sector frente a la volatilidad del mercado internacional (6).
+
 <img src="/Recursos/imagenes/rrrr.png" width="90"/>
 
 

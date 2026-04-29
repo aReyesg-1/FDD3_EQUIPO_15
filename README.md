@@ -27,7 +27,7 @@ El uso intensivo de estos insumos contribuye a la acidificación del suelo, alte
 <img src="/Recursos/imagenes/rrrr.png" width="90"/>
 
 
-## 3. Solución propuesta 
+## 3.  Propuesta de Solución 
 
 Consiste en el desarrollo de un compostador automático denominado ECOSMART 12-C, diseñado para optimizar el tratamiento de residuos orgánicos mediante un proceso eficiente, controlado y acelerado de compostaje. Este sistema busca transformar los residuos generados, especialmente en el sector agrícola, en compost de alta calidad que pueda ser reutilizado como abono natural.
 El compostador ECOSMART 12-C incorpora tecnología inteligente basada en sensores que permiten monitorear variables clave como la temperatura, la humedad y el pH del material orgánico. A partir de estos datos, el sistema regula automáticamente las condiciones internas para garantizar un proceso de descomposición adecuado que tenga como producto un abono de calidad y reducir el tiempo de producción de compost en comparación con métodos tradicionales.

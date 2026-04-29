@@ -51,7 +51,7 @@ La propuesta contribuye a este objetivo mediante:
 •	Actividades agrícolas locales, mejorando la fertilidad del suelo y la productividad 
 De esta manera, se establece un sistema sostenible y circular, donde los residuos generados por la comunidad se convierten en un recurso útil para su propio desarrollo.
 
-## Referencia Bibliografica
+## Referencias Bibliográficas:
 1. Organización de las Naciones Unidas para la Alimentación y la Agricultura: Más de 12 millones de toneladas de alimentos se pierden a lo largo de la cadena productiva en el Perú. | FAO en Perú | Food and Agriculture Organization of the United Nations [Internet]. [citado 28 de abril de 2026]. Disponible en: https://www.fao.org/peru/noticias/detail-events/en/c/1712376/
 
 

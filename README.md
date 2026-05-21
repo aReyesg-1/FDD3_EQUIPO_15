@@ -76,7 +76,7 @@ De esta manera, se establece un sistema sostenible y circular, donde los residuo
 ## 📸 Fotografía del Equipo  
 <p align="center">
 <img width="1408" height="768" alt="imagen_alumnos_IA" src="/Recursos/imagenes/das.jpeg"/>
-  <em>Figura 1. Fotografía del equipo 0X</em>
+  <em>Figura 1. Fotografía del equipo 15</em>
 </p>
 
 ---

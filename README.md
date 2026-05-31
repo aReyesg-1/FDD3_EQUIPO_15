@@ -13,7 +13,7 @@ Nos interesa trabajar con Objetivo de Desarrollo Sostenible (ODS) 12.
  
 
 ## 1. Introducción  
-En el Perú, más del 56 % de los residuos sólidos generados en los hogares son orgánicos, lo que representa una gran oportunidad para implementar prácticas sostenibles como el compostaje. Paralelamente, miles de instituciones educativas participan en iniciativas de educación ambiental promovidas por el Estado, fortaleciendo la conciencia ecológica en estudiantes y docentes.
+En el Perú, más del 56 % de los residuos sólidos generados en los hogares son orgánicos, lo que representa una gran oportunidad para implementar prácticas sostenibles como el compostaje(1). Paralelamente, miles de instituciones educativas participan en iniciativas de educación ambiental promovidas por el Estado, fortaleciendo la conciencia ecológica en estudiantes y docentes(2,3).
 
 Sin embargo, la aplicación del compostaje en las escuelas suele enfrentar dificultades relacionadas con el monitoreo constante de variables como la temperatura, la humedad y la generación de gases. La falta de seguimiento adecuado puede ocasionar malos olores, proliferación de plagas y el abandono de la práctica.
 

@@ -13,63 +13,59 @@ Nos interesa trabajar con Objetivo de Desarrollo Sostenible (ODS) 12.
  
 
 ## 1. Introducción  
-El incremento de los residuos sólidos constituye uno de los principales desafíos ambientales en el Perú, especialmente en el sector agrícola y en las actividades de comercialización de productos. Una proporción significativa de estos residuos corresponde a materia orgánica generada durante las etapas de cosecha, poscosecha, selección y venta de alimentos. Sin embargo, gran parte de estos residuos no es gestionada adecuadamente, lo que favorece su acumulación y disposición ineficiente.
+En el Perú, más del 56 % de los residuos sólidos generados en los hogares son orgánicos, lo que representa una gran oportunidad para implementar prácticas sostenibles como el compostaje. Paralelamente, miles de instituciones educativas participan en iniciativas de educación ambiental promovidas por el Estado, fortaleciendo la conciencia ecológica en estudiantes y docentes.
 
-En este contexto,surge la necesidad de implementar soluciones tecnológicas que permitan optimizar la gestión de residuos orgánicos de manera eficiente y sostenible., promoviendo así un uso eficiente de los recursos y fortaleciendo el desarrollo ambiental y productivo de la comunidad. En
+Sin embargo, la aplicación del compostaje en las escuelas suele enfrentar dificultades relacionadas con el monitoreo constante de variables como la temperatura, la humedad y la generación de gases. La falta de seguimiento adecuado puede ocasionar malos olores, proliferación de plagas y el abandono de la práctica.
+
+Para abordar este problema surge EcoSmart 12, un sistema de compostaje inteligente que integra sensores para monitorear las condiciones del proceso en tiempo real. Los datos recolectados se envían a una aplicación que proporciona recomendaciones y contenido educativo, facilitando el aprendizaje práctico del compostaje y promoviendo una gestión sostenible de los residuos orgánicos dentro de las instituciones educativas.
 
 ## 2. Problemática  
-En el sector agrícola y comercial del Perú, la gestión ineficiente de residuos orgánicos provenientes de la cosecha, selección y venta genera acumulación y contaminación ambiental. Se estima que más de 12 millones de toneladas de alimentos se pierden anualmente, principalmente en producción y procesamiento (53%), seguidos de postcosecha (18%) y comercialización (13%), destacando frutas y vegetales con 5,6 millones de toneladas (1).
 
-Esta problemática se agrava por la dependencia de fertilizantes químicos, utilizados por el 46,7% de pequeños y medianos productores (1.047.186 agricultores), con mayor presencia en regiones como Cajamarca (15%), Áncash (11%), Piura (8,5%), Junín (7,9%) y La Libertad (7,6%) (2). Entre los más usados se encuentran el fosfato diamónico (72,5%), cloruro de potasio (57,5%) y nitrato de amonio (37,5%), con limitaciones de acceso en zonas como el Valle del Cunas (3).
 
-El uso intensivo de estos insumos contribuye a la acidificación del suelo, alteraciones microbianas y contaminación de fuentes de agua, mientras que la inadecuada disposición de residuos (quema o vertederos) incrementa emisiones de metano, responsable de cerca del 30% del calentamiento global (4)(5). Además, los altos costos de estos fertilizantes —que representan el 29,9% de los consumos intermedios y son en un 89,5% importados— afectan la rentabilidad del sector frente a la volatilidad del mercado internacional (6).
+El compostaje escolar es una estrategia que promueve la educación ambiental y el aprovechamiento de los residuos orgánicos. Sin embargo, su correcta realización requiere controlar variables como la temperatura, la humedad y la aireación, cuyo seguimiento suele realizarse de forma manual por estudiantes y docentes.
+
+La falta de herramientas accesibles para monitorear estas condiciones puede generar errores en el proceso, afectando la calidad del compost y limitando el aprovechamiento de los residuos orgánicos. Además, dificulta que las instituciones educativas fortalezcan el aprendizaje práctico y promuevan hábitos sostenibles que puedan replicarse en los hogares.
+
 
 <img src="/Recursos/imagenes/rrrr.png" width="90"/>
 
 
 ## 3.  Propuesta de Solución 
 
-Consiste en el desarrollo de un compostador automático denominado ECOSMART 12-C, diseñado para optimizar el tratamiento de residuos orgánicos mediante un proceso eficiente, controlado y acelerado de compostaje. Este sistema busca transformar los residuos generados, especialmente en el sector agrícola, en compost de alta calidad que pueda ser reutilizado como abono natural.
-El compostador ECOSMART 12-C incorpora tecnología inteligente basada en sensores que permiten monitorear variables clave como la temperatura, la humedad y el pH del material orgánico. A partir de estos datos, el sistema regula automáticamente las condiciones internas para garantizar un proceso de descomposición adecuado que tenga como producto un abono de calidad y reducir el tiempo de producción de compost en comparación con métodos tradicionales.
+EcoSmart 12 es un sistema de compostaje inteligente orientado al entorno educativo. Mediante sensores que monitorean variables como la temperatura, la humedad y los gases, el dispositivo recopila información del proceso de compostaje y la envía a una página web.
+
+A través de esta plataforma, estudiantes y docentes pueden visualizar datos en tiempo real, recibir recomendaciones para el cuidado del compost y acceder a contenido educativo relacionado con la gestión de residuos orgánicos. De esta manera, EcoSmart 12 facilita el seguimiento del proceso y fortalece el aprendizaje práctico de la educación ambiental.
+
 
 ## Ejemplos de proyectos parecidos :
- -Sistema automático de control ambiental dentro del compostador. Este prototipo se enfoca en mantener las condiciones adecuadas para que los microorganismos puedan descomponer los residuos de manera eficiente. Para ello, se emplean sensores que detectan cambios en la temperatura y la humedad, activando automáticamente mecanismos como el riego o la ventilación cuando es necesario. Esto evita problemas como la muerte de microorganismos o la descomposición inadecuada de los residuos, mejorando así la calidad del compost producido.(7)
+ 1. CompostUMH 
 
--Sistema IoT para medición de residuos orgánicos. Este consiste en un prototipo que permite medir la masa de residuos orgánicos en el hogar mediante una celda de carga conectada a una tarjeta Arduino y un módulo WiFi. Los datos recolectados se envían a una plataforma en la nube para su monitoreo en tiempo real, reduciendo el error humano y mejorando la precisión de las mediciones (con un error menor al 1.4 %). De esta manera, el sistema facilita el control y aprovechamiento de los residuos, contribuyendo a prácticas sostenibles como el compostaje.(8)
+Los residuos orgánicos que se generan en la actividad agrícola pueden manejarse, procesarse y aprovecharse en el campo, convirtiendo así la economía lineal en una circular. Este aplicativo consiste en trabajar junto al productor para crear procesos de compostaje adaptados a su producción, contexto y condiciones, que establezcan una gestión sostenible a largo plazo, evitando incendios y la pérdida de recursos. Agro compostaje abarca acciones de capacitación y apoyo. 
+
+ 2.El termómetro 
+
+Esta aplicación se presenta como una herramienta digital diseñada para el monitoreo preciso de las condiciones climáticas exteriores, ofreciendo al usuario datos en tiempo real sobre la temperatura, la humedad y la hora actual de manera automática y constante. Su propuesta de valor reside en un diseño elegante y altamente personalizable que permite modificar los esquemas de colores de fondo y texto, además de ofrecer la flexibilidad de elegir entre las escalas de medición Celsius y Fahrenheit para cualquier ubicación geográfica a nivel global. El servicio busca la comodidad del usuario mediante actualizaciones periódicas que garantizan información actualizada sin esfuerzo manual, mientras que su modalidad Premium añade un nivel extra de utilidad al permitir la gestión y el guardado de múltiples ubicaciones simultáneamente, facilitando así la consulta instantánea de datos meteorológicos de diferentes partes del mundo en una sola interfaz optimizada
 
 
 
 ## 🌱ODS 12 (Producción y Consumo Responsables)
 
-El proyecto se encuentra directamente alineado con el Objetivo de Desarrollo Sostenible 12, el cual promueve la gestión eficiente de los recursos naturales y la reducción de desechos mediante prácticas sostenibles.
-La propuesta contribuye a este objetivo mediante:
-•	 La reducción de residuos orgánicos, evitando su disposición inadecuada 
-•	La promoción de la economía circular, al transformar desechos en abono útil 
-•	La disminución del impacto ambiental, reduciendo contaminación y emisiones 
-•	El fortalecimiento de actividades sostenibles, como la agricultura y la gestión de áreas verdes 
-•	La concientización de la comunidad, fomentando prácticas responsables de consumo y reciclaje
-•	Actividades agrícolas locales, mejorando la fertilidad del suelo y la productividad 
-De esta manera, se establece un sistema sostenible y circular, donde los residuos generados por la comunidad se convierten en un recurso útil para su propio desarrollo.
+Nuestro proyecto EcoSmart 12 está relacionado con el ODS 12, ya que busca promover el manejo responsable de los residuos orgánicos mediante el uso de tecnología aplicada al compostaje.
+
+La propuesta contribuye a este objetivo porque:
+
+Facilita el aprovechamiento de los residuos orgánicos generados en las instituciones educativas.
+Permite monitorear el proceso de compostaje mediante sensores que registran variables como temperatura, humedad y gases.
+Ayuda a reducir errores durante el proceso gracias a las recomendaciones brindadas por la plataforma web.
+Promueve la educación ambiental y el aprendizaje práctico sobre la gestión sostenible de residuos.
+Fomenta la conciencia ambiental en estudiantes y docentes, incentivando prácticas responsables que pueden replicarse en sus hogares.
+Impulsa la economía circular al transformar residuos orgánicos en compost que puede utilizarse en áreas verdes y proyectos escolares.
+
+De esta manera, EcoSmart 12 contribuye al desarrollo de hábitos sostenibles y al uso responsable de los recursos, combinando tecnología y educación para generar un impacto positivo en la comunidad educativa.
 
 ## Referencias Bibliográficas:
-1. Organización de las Naciones Unidas para la Alimentación y la Agricultura: Más de 12 millones de toneladas de alimentos se pierden a lo largo de la cadena productiva en el Perú. | FAO en Perú | Food and Agriculture Organization of the United Nations [Internet]. [citado 28 de abril de 2026]. Disponible en: https://www.fao.org/peru/noticias/detail-events/en/c/1712376/
 
-
-2. Ministerio de Desarrollo Agrario y Riego. Panorama nacional e internacional del mercado de fertilizantes inorgánicos [Internet]. Lima: Ministerio de Desarrollo Agrario y Riego; 2022 [citado 28 de abril de 2026]. Disponible en: https://repositorio.midagri.gob.pe/bitstream/20.500.13036/1288/1/Mercado%20de%20fertilizantes%20inorg%C3%A1nicos.pdf
-
-3. Solano SVV, Calle Arancibia ME. Fertilizantes en la producción agrícola: un análisis de la percepción de uso. Apuntes del Cenes. 2024;43(78):209-234. 
-
-4. FAO. Pérdidas y desperdicio de alimentos en el mundo: alcance, causas y prevención [Internet]. Roma: Organización de las Naciones Unidas para la Alimentación y la Agricultura; 2011 [citado 28 de abril de 2026]. Disponible en: https://www.fao.org/4/i3388s/i3388s.pdf
-
-5. Repsol. Residuos orgánicos [Internet]. [citado 28 de abril de 2026]. Disponible en: https://www.repsol.com/es/energia-avanzar/energia/residuos-organicos/index.cshtml
- 
-6. Juárez-Robles D, Luna-Guido M, Dendooven L. Composting of biosolids mixed with soil and manure: effect on organic matter mineralization and microbial biomass. Rev Chapingo Ser Cienc For Ambiente. 2017;23(3):401–412. doi: 10.5154/r.rchscfa.2016.12.065  https://doi.org/10.5154/r.rchscfa.2016.12.065 
-
-7) Ayala Cadena O. Prototipo de un compostador de uso doméstico automatizado con Arduino [tesis]. Texcoco: Universidad Autónoma del Estado de México, Centro Universitario UAEM Texcoco; 2014. Disponible en: https://ri.uaemex.mx/bitstream/handle/20.500.11799/62545/Tesis%20Omar%20Ayala%20Cadena-split-merge.pdf?sequence=3
-
-8) Cristancho Ariza KFM, Guerra Lu JK. Gestión y manejo de los residuos sólidos orgánicos domiciliarios en el distrito de Rupa, Leoncio Prado, Huánuco – Perú 2023. ALFA Rev Investig Cienc Agron Vet. 2025;9(25):120-133. doi:10.33996/revistaalfa.v9i25.336
-
-
+Falta citar 
 
 
 

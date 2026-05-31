@@ -38,7 +38,7 @@ A través de esta plataforma, estudiantes y docentes pueden visualizar datos en 
 
 
 ## Ejemplos de proyectos parecidos :
- 1. CompostUMH 
+1. CompostUMH 
 
 Los residuos orgánicos que se generan en la actividad agrícola pueden manejarse, procesarse y aprovecharse en el campo, convirtiendo así la economía lineal en una circular. Este aplicativo consiste en trabajar junto al productor para crear procesos de compostaje adaptados a su producción, contexto y condiciones, que establezcan una gestión sostenible a largo plazo, evitando incendios y la pérdida de recursos. Agro compostaje abarca acciones de capacitación y apoyo. 
 

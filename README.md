@@ -79,14 +79,15 @@ Falta citar
 
 ## 👥 Integrantes del Equipo  
 
-| Foto | Nombre | Rol | Intereses |Correos electrónicos 
-|------|--------|-----|-----------|
-| <img src="/Recursos/imagenes/DDDD.png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad |kimberly.huaranga@upch.pe
+## 👥 Integrantes del Equipo
 
-| <img src="/Recursos/imagenes/CCCC.png" width="90"/> | **Sandra Cevila Chahua P.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |sandra.chahua@upch.pe
-| <img src="/Recursos/imagenes/BBB.png" width="90"/> | **Karen Rosario Ccorpa Ñ.** | Diseñador/a | Diseño de prototipos, creatividad aplicada |karen.ccorpa@upch.pe
-| <img src="/Recursos/imagenes/AAAA.png" width="90"/> | **Kaira Portocarrero H.** | Encargado/a de documentación | Comunicación científica, redacción técnica |kaira.portocarrero@upch.pe
-| <img src="/Recursos/imagenes/zzzz.jpeg" width="90"/> | **Alvaro P. Reyes G.** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |alvaro.reyes@upch.pe vvvv
+| Foto | Nombre | Rol | Intereses | Correo electrónico |
+|------|--------|-----|-----------|-------------------|
+| <img src="Recursos/imagenes/DDDD.png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
+| <img src="Recursos/imagenes/CCCC.png" width="90"/> | **Sandra Cevila Chahua P.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario | sandra.chahua@upch.pe |
+| <img src="Recursos/imagenes/BBB.png" width="90"/> | **Karen Rosario Ccorpa Ñ.** | Diseñadora | Diseño de prototipos, creatividad aplicada | karen.ccorpa@upch.pe |
+| <img src="Recursos/imagenes/AAAA.png" width="90"/> | **Kaira Portocarrero H.** | Encargada de documentación | Comunicación científica, redacción técnica | kaira.portocarrero@upch.pe |
+| <img src="Recursos/imagenes/zzzz.jpeg" width="90"/> | **Álvaro P. Reyes G.** | Programador y modelador | Programación, análisis de datos y simulación | alvaro.reyes@upch.pe |
 
 ---
 

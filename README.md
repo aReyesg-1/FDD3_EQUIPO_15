@@ -93,7 +93,7 @@ Falta citar
 
 ## 📌 Resumen Final  
 Este README resume quiénes somos como equipo, los valores que nos motivan y
-nuestro compromiso con el ODS 12: Producción y Consumo Responsables.Producción y Consumo Responsables. Durante este curso trabajaremos en en diseñar soluciones que
+nuestro compromiso con el ODS 12: Producción y Consumo Responsables. Durante este curso trabajaremos en en diseñar soluciones que
 promuevan la eficiencia de recursos y la reducción de desechos, una propuesta que combina tecnología y educación ambiental para apoyar el monitoreo del compostaje escolar. Nuestro objetivo es facilitar el aprovechamiento de los residuos orgánicos, fortalecer el aprendizaje sobre sostenibilidad y promover prácticas responsables que contribuyan al cuidado del medio ambiente.
 
 [def]: esktop

@@ -45,6 +45,9 @@ Los residuos orgánicos que se generan en la actividad agrícola pueden manejars
 
 Esta aplicación se presenta como una herramienta digital diseñada para el monitoreo preciso de las condiciones climáticas exteriores, ofreciendo al usuario datos en tiempo real sobre la temperatura, la humedad y la hora actual de manera automática y constante. Su propuesta de valor reside en un diseño elegante y altamente personalizable que permite modificar los esquemas de colores de fondo y texto, además de ofrecer la flexibilidad de elegir entre las escalas de medición Celsius y Fahrenheit para cualquier ubicación geográfica a nivel global. El servicio busca la comodidad del usuario mediante actualizaciones periódicas que garantizan información actualizada sin esfuerzo manual, mientras que su modalidad Premium añade un nivel extra de utilidad al permitir la gestión y el guardado de múltiples ubicaciones simultáneamente, facilitando así la consulta instantánea de datos meteorológicos de diferentes partes del mundo en una sola interfaz optimizada
 
+3. Ubidots
+   Es una plataforma web de Internet de las Cosas (IoT) que permite recopilar, almacenar, visualizar y analizar datos provenientes de sensores conectados a dispositivos electrónicos. Ofrece paneles de control interactivos, gráficos en tiempo real, almacenamiento en la nube y sistemas de alertas para facilitar el monitoreo remoto de variables ambientales y operativas.
+
 
 
 ## 🌱ODS 12 (Producción y Consumo Responsables)

@@ -86,7 +86,7 @@ Falta citar
 
 | Foto | Nombre | Rol | Intereses | Correo electrónico |
 |------|--------|-----|-----------|-------------------|
-| <img src="Recursos/Imágenes/Huaranga Sánchez Kimberly .png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
+| <img width="100" height="100" alt="imagen_alumnos_IA" src="Recursos/Imágenes/Huaranga Sánchez Kimberly .png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
 | <img src="Recursos/Imágenes/Chahua Paredes Sandra.png" width="90"/> | **Sandra Cevila Chahua Paredes.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario | sandra.chahua@upch.pe |
 | <img src="Recursos/Imágenes/Ccorpa Ñahui Karen.png" width="90"/> | **Karen Rosario Ccorpa Ñahui.** | Diseñadora | Diseño de prototipos, creatividad aplicada | karen.ccorpa@upch.pe |
 | <img src="Recursos/Imágenes/Portocarrero Hoyos Kaira.png" width="90"/> | **Kaira Portocarrero Hoyos.** | Encargada de documentación | Comunicación científica, redacción técnica | kaira.portocarrero@upch.pe |

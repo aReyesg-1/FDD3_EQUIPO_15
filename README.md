@@ -27,7 +27,7 @@ El compostaje escolar es una estrategia que promueve la educación ambiental y e
 La falta de herramientas accesibles para monitorear estas condiciones puede generar errores en el proceso, afectando la calidad del compost y limitando el aprovechamiento de los residuos orgánicos. Además, dificulta que las instituciones educativas fortalezcan el aprendizaje práctico y promuevan hábitos sostenibles que puedan replicarse en los hogares.
 
 
-<img src="/Recursos/imagenes/foto grupal.png" width="90"/>
+<img src="/Recursos/imagenes/Foto grupal.png" width="90"/>
 
 
 ## 3.  Propuesta de Solución 

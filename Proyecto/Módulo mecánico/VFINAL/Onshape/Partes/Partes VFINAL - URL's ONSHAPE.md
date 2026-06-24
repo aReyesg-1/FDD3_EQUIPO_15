@@ -20,5 +20,6 @@ Acceda al modelo mediante el siguiente enlace:
 
 
 Partes separadas: https://cad.onshape.com/documents/d5dc88412cb3d4f85617ae35/w/951470670e1e87752274434c/e/d38a20b7f181fa85a0854e88
+
 Partes unidas: https://cad.onshape.com/documents/d5dc88412cb3d4f85617ae35/w/951470670e1e87752274434c/e/1e9cec2a70d28b28577c6497?renderMode=0\&uiState=6a351f13fc247f6640cff0b6
 

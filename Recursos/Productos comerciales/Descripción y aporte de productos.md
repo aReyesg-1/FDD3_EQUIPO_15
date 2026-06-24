@@ -13,6 +13,7 @@ Aporta como referencia para el monitoreo y visualización de datos ambientales. 
 
 
 Ubidots:
+
 Es una plataforma web de Internet de las Cosas (IoT) que permite recopilar, almacenar, visualizar y analizar datos provenientes de sensores conectados a dispositivos electrónicos. Ofrece paneles de control interactivos, gráficos en tiempo real, almacenamiento en la nube y sistemas de alertas para facilitar el monitoreo remoto de variables ambientales y operativas.
 
 Aporta como referencia para el desarrollo de la plataforma de monitoreo de EcoSmart-12, ya que demuestra cómo visualizar y gestionar datos de temperatura, humedad y gases mediante una interfaz web. Su estructura de dashboards, gráficos históricos y monitoreo remoto proporciona una base conceptual para la presentación y seguimiento de las variables del compostaje en tiempo real.

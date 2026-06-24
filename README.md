@@ -83,11 +83,11 @@ Falta citar
 
 | Foto | Nombre | Rol | Intereses | Correo electrónico |
 |------|--------|-----|-----------|-------------------|
-| <img src="Recursos/imagenes/DDDD.png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
-| <img src="Recursos/imagenes/CCCC.png" width="90"/> | **Sandra Cevila Chahua P.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario | sandra.chahua@upch.pe |
-| <img src="Recursos/imagenes/BBB.png" width="90"/> | **Karen Rosario Ccorpa Ñ.** | Diseñadora | Diseño de prototipos, creatividad aplicada | karen.ccorpa@upch.pe |
-| <img src="Recursos/imagenes/AAAA.png" width="90"/> | **Kaira Portocarrero H.** | Encargada de documentación | Comunicación científica, redacción técnica | kaira.portocarrero@upch.pe |
-| <img src="Recursos/imagenes/zzzz.jpeg" width="90"/> | **Álvaro P. Reyes G.** | Programador y modelador | Programación, análisis de datos y simulación | alvaro.reyes@upch.pe |
+| <img src="Recursos/imagenes/Huaranga Sánchez Kimberly.png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
+| <img src="Recursos/imagenes/Chahua Paredes Sandra.png" width="90"/> | **Sandra Cevila Chahua P.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario | sandra.chahua@upch.pe |
+| <img src="Recursos/imagenes/Ccorpa Ñahui Karen.png" width="90"/> | **Karen Rosario Ccorpa Ñ.** | Diseñadora | Diseño de prototipos, creatividad aplicada | karen.ccorpa@upch.pe |
+| <img src="Recursos/imagenes/Portocarrero Hoyos Kaira.png" width="90"/> | **Kaira Portocarrero H.** | Encargada de documentación | Comunicación científica, redacción técnica | kaira.portocarrero@upch.pe |
+| <img src="Recursos/imagenes/Reyes García Álvaro" width="90"/> | **Álvaro P. Reyes G.** | Programador y modelador | Programación, análisis de datos y simulación | alvaro.reyes@upch.pe |
 
 ---
 

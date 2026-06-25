@@ -67,8 +67,11 @@ Impulsa la economía circular al transformar residuos orgánicos en compost que 
 De esta manera, EcoSmart 12 contribuye al desarrollo de hábitos sostenibles y al uso responsable de los recursos, combinando tecnología y educación para generar un impacto positivo en la comunidad educativa.
 
 ## Referencias Bibliográficas:
+ 1. Ministerio del Ambiente. Anuario Estadístico del Sector Ambiente 2024 [Internet]. Lima: MINAM; 2024; citado 24 de junio de 2026.  Disponible en: https://sinia.minam.gob.pe/sites/default/files/archivos/public/docs/ANUARIO%20ESTAD%C3%8DSTICO%20DEL%20SECTOR%20AMBIENTE%202024.pdf  
 
-Falta citar 
+2. Lima: Universidad Nacional de Educación Enrique Guzmán y Valle; citado 24 de junio de 2026.Disponible en: https://repositorio.une.edu.pe/server/api/core/bitstreams/cbf1658e-a35a-4869-8e2f-0f1e2aff5132/content 
+
+3.CREA Compost. Unidad didáctica: Composta en tu escuela [Internet]. Madrid: CREA Compost; 2020; citado 24 de junio de 2026. Disponible en:   https://www.creacompost.org/wp-content/uploads/2020/10/Unidad_PROFE_ESPA%C3%91OL_normal.pdf
 
 
 

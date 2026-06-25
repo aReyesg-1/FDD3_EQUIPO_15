@@ -1,6 +1,6 @@
 Descripción de versiones y mejoras de EcoSmart 12
 
-Durante el desarrollo del EcoSmart en Onshape, la carcasa del sistema pasó por varias iteraciones con el objetivo de optimizar la protección de los componentes electrónicos, mejorar la ventilación y garantizar la correcta interacción del usuario con el dispositivo. A lo largo del proceso se mantuvo la distribución interna de los componentes, asegurando espacios específicos para la pantalla LCD, luces LED, botón de encendido y los sensores de temperatura, humedad del suelo y gases (MQ-135, MQ-4 y MQ-136).
+Durante el desarrollo del EcoSmart en Onshape, la carcasa del sistema pasó por varias iteraciones con el objetivo de optimizar la protección de los componentes electrónicos, mejorar la ventilación y garantizar la correcta interacción del usuario con el dispositivo. A lo largo del proceso se mantuvo la distribución interna de los componentes, asegurando espacios específicos para la pantalla LCD, luces LED, botón de encendido y los sensores de temperatura, humedad del suelo y gases ( MQ-4 y MQ-136).
 
 Versión 1: Diseño inicial de carcasa
 

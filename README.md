@@ -89,11 +89,11 @@ De esta manera, EcoSmart 12 contribuye al desarrollo de hábitos sostenibles y a
 
 | Foto | Nombre | Rol | Intereses | Correo electrónico |
 |------|--------|-----|-----------|-------------------|
-| <img src="Recursos/Imágenes/Kimberly foto carnet.png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
-| <img src="Recursos/Imágenes/Sandra foto carnet.png" width="90"/> | **Sandra Cevila Chahua Paredes.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario | sandra.chahua@upch.pe |
-| <img src="Recursos/Imágenes/Karen foto carnet.png" width="90"/> | **Karen Rosario Ccorpa Ñahui.** | Diseñadora | Diseño de prototipos, creatividad aplicada | karen.ccorpa@upch.pe |
-| <img src="Recursos/Imágenes/kaira foto carnet.png" width="90"/> | **Kaira Portocarrero Hoyos.** | Encargada de documentación | Comunicación científica, redacción técnica | kaira.portocarrero@upch.pe |
-| <img src="Recursos/Imágenes/Álvaro foto carnet.png" width="90"/> | **Álvaro Pablo Reyes García.** | Programador y modelador | Programación, análisis de datos y simulación | alvaro.reyes@upch.pe |
+| <img src="Recursos/Imágenes/Huaranga Sánchez Kimberly foto carnet.png" width="90"/> | **Kimberly Huaranga Sánchez** | Líder del equipo | Innovación social, sostenibilidad | kimberly.huaranga@upch.pe |
+| <img src="Recursos/Imágenes/Chahua Paredes Sandra foto carnet.png" width="90"/> | **Sandra Cevila Chahua Paredes.** | Responsable de investigación | Gestión ambiental, desarrollo comunitario | sandra.chahua@upch.pe |
+| <img src="Recursos/Imágenes/Ccorpa Ñahui Karen foto carnet.png" width="90"/> | **Karen Rosario Ccorpa Ñahui.** | Diseñadora | Diseño de prototipos, creatividad aplicada | karen.ccorpa@upch.pe |
+| <img src="Recursos/Imágenes/Portocarrero Hoyos Kaira foto carnet.png" width="90"/> | **Kaira Portocarrero Hoyos.** | Encargada de documentación | Comunicación científica, redacción técnica | kaira.portocarrero@upch.pe |
+| <img src="Recursos/Imágenes/Reyes García Álvaro foto carnet.png" width="90"/> | **Álvaro Pablo Reyes García.** | Programador y modelador | Programación, análisis de datos y simulación | alvaro.reyes@upch.pe |
 
 ---
 
